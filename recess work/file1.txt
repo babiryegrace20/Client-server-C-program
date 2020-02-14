@@ -1,0 +1,4 @@
+
+ 	 this is just a testing text message for file handling in C programming 
+ It's really fan  ! 
+ ok
